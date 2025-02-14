@@ -18,8 +18,8 @@ install playwright:
 ```bash
 playwright install
 ```
-#### Step 2: Set Up Python Environment
-We recommend using [uv](https://docs.astral.sh/uv/) for managing the Python environment.
+#### Set Up Python Environment
+Download uv from here - [uv](https://docs.astral.sh/uv/) for managing the Python environment.
 
 Using uv (recommended):
 ```bash
